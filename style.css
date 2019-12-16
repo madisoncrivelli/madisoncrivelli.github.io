@@ -27,5 +27,8 @@ header, p {
     height: 200px;
     width: 200px;
     background-color: firebrick;
-    
+    position: absolute;
+    top: 200px;
+    left: 40%;
+
 }
